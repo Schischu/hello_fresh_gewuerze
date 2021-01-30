@@ -1,5 +1,4 @@
-# hello_fresh_gewuerze
-Hello Fresh Gewürze
+# Hello Fresh Gewürze
 
 Wer schonmal propiert hat Hello Fresh Gerichte noch einmal nachzukochen wird festgestellt haben das die Rezepte alle auf Hello Fresh eigene Gewürzmischungen verweisen.
 Die nachfolgende Auflistung aller Gewürzmischungen soll als Hilfe dienen alternativen zu verwenden.
