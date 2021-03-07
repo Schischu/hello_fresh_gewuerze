@@ -32,6 +32,9 @@ Die nachfolgende Auflistung aller Gewürzmischungen soll als Hilfe dienen altern
   * Paprika, Knoblauch, Pfeffer (schwarz), Zwiebel, Speisesalz, Toastzwiebelpulver, Tomaten, Tomatenpulver
   * Alternative: Spicebar Tinas Tomatiges: https://www.spicebar.de/tinas-tomatiges-bio
 
+- Hello Smokey
+  * Gewürze (Paprika, Pfeffer (schwarz), *Senf*mehl), geräucherte Paprika, Zucker, Rauchsalz (Speisesalz, Rauch), Speisesalz
+
 - Hello Souflaki
 
 - Hello Südseetraum
