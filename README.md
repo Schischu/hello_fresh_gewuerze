@@ -36,6 +36,7 @@ Die nachfolgende Auflistung aller Gewürzmischungen soll als Hilfe dienen altern
   * Gewürze (Paprika, Pfeffer (schwarz), *Senf*mehl), geräucherte Paprika, Zucker, Rauchsalz (Speisesalz, Rauch), Speisesalz
 
 - Hello Souflaki
+  * Knoblauch, Oregano, Tomaten, Chili mild, Cayenne Pfeffer
 
 - Hello Südseetraum
 
