@@ -7,7 +7,7 @@ Die nachfolgende Auflistung aller Gewürzmischungen soll als Hilfe dienen altern
   * Speisesalz, Zucker, Mangopulver (Mango, Maltidextrin), Cucuma, Rosmarin gemahlen, Kreuzkümmel, Basilikum gerebelt, Zitronenschaltengranulat (Zucker, WEIZENSTÄRKE, Zitronenschalengranulat, Aromaextrakte), Chilli
 
 - Hello Bueon Appetito (Hello Mediterraneo)
-  * Tomaten, Salz, Kräuter (Rosmarin, Oregano, Basilikum, Thymian), Gewürze (Zwiebeln, Chili, Knoblacuh), Butterpilzpulver
+  * Tomaten, Speisesalz, Kräuter (Rosmarin, Oregano, Basilikum, Thymian), Gewürze (Zwiebeln, Chili, Knoblauch), Butterpilzpulver
 
 - Hello Curry
   * Gewürze (Koreander, Curcuma, Bockshornkleesaat, Kreuzkümmel, Muskat), Paprika extrakt
@@ -18,6 +18,9 @@ Die nachfolgende Auflistung aller Gewürzmischungen soll als Hilfe dienen altern
   * Parpika, Kumin, Knoblauch, Piment, Zimt, Chili, Meersalz, Tomatenpulver
   * Alternative: Spicebar Hello Mexico: https://www.spicebar.de/hello-mexico-bio
 
+- Hello Kokos Curry
+  * Speisesalz, Zucker, Gewürze (Bockshornklee, Chili, Kreuzkümmel, Kardamom, Nelken) 10% Kokosraspel
+
 - Hello Mediterraneo (Hello Bueon Appetito)
   * Alternative: Spicebar Hello Mediterraneo: https://www.spicebar.de/gewuerze/gewuerzmischungen/hello-mediterraneo-bio
 
@@ -26,7 +29,6 @@ Die nachfolgende Auflistung aller Gewürzmischungen soll als Hilfe dienen altern
 
 - Hello Muskat
   * Speisesalz, Würze, Gewürze (Zwievel, Lauch, Muskatnuss, *Sellerie*, Pastinake, Knoblauch, Kurkuma, Liebstockwurzel), Maltodextrin, Karottenpulver, Karotten, Kräuter (Petersilie)
-
 
 - Hello Paprika
   * Paprika, Knoblauch, Pfeffer (schwarz), Zwiebel, Speisesalz, Toastzwiebelpulver, Tomaten, Tomatenpulver
@@ -42,6 +44,9 @@ Die nachfolgende Auflistung aller Gewürzmischungen soll als Hilfe dienen altern
 
 - Smoky BBQ
   * Alternative: Spicebar Smoky BBQ: https://www.spicebar.de/smoky-bbq-pfeffermischung
+
+- Gewürzmischung Paprikagewürz
+  * Speisesalz, Gewürze (Paprika, Pfeffer, Schwarzkümmel), Gemüse getrocknet (Zwiebeln, Knoblauch, Tomaten)
 
 - Gewürzmischung Muskat (?)
   * Speisesalz, Gemüse getrocknet (Lauch, Pastinaken, Karotten, Champignon, SELLERIEKNOLLE, Zwiebeln, Tomaten), Sonnenblumenöl, Maltodextrin, Gewürze (Muskat, Curcuma), Kräuter getrocknet
