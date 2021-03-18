@@ -7,7 +7,8 @@
   * Tomaten, Speisesalz, Kräuter (Rosmarin, Oregano, Basilikum, Thymian), Gewürze (Zwiebeln, Chili, Knoblauch), Butterpilzpulver
 
 - Hello Curry
-  * Gewürze (Koreander, Curcuma, Bockshornkleesaat, Kreuzkümmel, Muskat), Paprika extrakt
+  * Gewürze (Koriander, Curcuma, Bockshornkleesaat, Kreuzkümmel, Muskat), Paprika extrakt
+  * Alternative: Just Spices Curry Madras: https://www.justspices.de/curry-madras.html?queryID=&objectID=3405&indexName=js_live_dedefault_products
 
 - Hello Fajita
 
