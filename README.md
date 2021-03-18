@@ -1,8 +1,5 @@
 # Hello Fresh Gewürze
 
-Wer schonmal propiert hat Hello Fresh Gerichte noch einmal nachzukochen wird festgestellt haben das die Rezepte alle auf Hello Fresh eigene Gewürzmischungen verweisen.
-Die nachfolgende Auflistung aller Gewürzmischungen soll als Hilfe dienen alternativen zu verwenden.
-
 - Hello Aloha
   * Speisesalz, Zucker, Mangopulver (Mango, Maltidextrin), Cucuma, Rosmarin gemahlen, Kreuzkümmel, Basilikum gerebelt, Zitronenschaltengranulat (Zucker, WEIZENSTÄRKE, Zitronenschalengranulat, Aromaextrakte), Chilli
 
