@@ -2,6 +2,7 @@
 
 - Hello Aloha
   * Speisesalz, Zucker, Mangopulver (Mango, Maltidextrin), Cucuma, Rosmarin gemahlen, Kreuzkümmel, Basilikum gerebelt, Zitronenschaltengranulat (Zucker, WEIZENSTÄRKE, Zitronenschalengranulat, Aromaextrakte), Chilli
+  * Alternative Spicebar Südseetraum: https://www.spicebar.de/sudseetraum-bio
 
 - Hello Bueon Appetito (Hello Mediterraneo)
   * Tomaten, Speisesalz, Kräuter (Rosmarin, Oregano, Basilikum, Thymian), Gewürze (Zwiebeln, Chili, Knoblauch), Butterpilzpulver
