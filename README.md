@@ -6,7 +6,6 @@
 
 - Hello Bueon Appetito (Hello Mediterraneo)
   * Tomaten, Speisesalz, Kräuter (Rosmarin, Oregano, Basilikum, Thymian), Gewürze (Zwiebeln, Chili, Knoblauch), Butterpilzpulver
-  <img src="https://github.com/Schischu/hello_fresh_gewuerze/blob/main/pictures/HELLO_BUON_APPETITO.JPG?raw=true" width="20" height="60">
 
 - Hello Curry
   * Gewürze (Koriander, Curcuma, Bockshornkleesaat, Kreuzkümmel, Muskat), Paprika extrakt
