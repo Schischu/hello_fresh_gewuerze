@@ -6,6 +6,7 @@
 
 - Hello Bueon Appetito (Hello Mediterraneo)
   * Tomaten, Speisesalz, Kräuter (Rosmarin, Oregano, Basilikum, Thymian), Gewürze (Zwiebeln, Chili, Knoblauch), Butterpilzpulver
+  <img src="https://github.com/Schischu/hello_fresh_gewuerze/blob/main/pictures/HELLO_BUON_APPETITO.JPG?raw=true" width="20" height="60">
 
 - Hello Curry
   * Gewürze (Koriander, Curcuma, Bockshornkleesaat, Kreuzkümmel, Muskat), Paprika extrakt
@@ -16,6 +17,9 @@
 - Hello Fiesta
   * Parpika, Kumin, Knoblauch, Piment, Zimt, Chili, Meersalz, Tomatenpulver
   * Alternative: Spicebar Hello Mexico: https://www.spicebar.de/hello-mexico-bio
+
+- Hello Harissa:
+  * Chili, Paprika, Kumin, Knoblauch, Koriander, Piment, Meersalz
 
 - Hello Kokos Curry
   * Speisesalz, Zucker, Gewürze (Bockshornklee, Chili, Kreuzkümmel, Kardamom, Nelken) 10% Kokosraspel
@@ -32,6 +36,9 @@
 - Hello Paprika
   * Paprika, Knoblauch, Pfeffer (schwarz), Zwiebel, Speisesalz, Toastzwiebelpulver, Tomaten, Tomatenpulver
   * Alternative: Spicebar Tinas Tomatiges: https://www.spicebar.de/tinas-tomatiges-bio
+
+- Hello Piri Piri
+  * Gewürze (Paprika, Ingwer, Pfeffer (schwarz), Koriander, Knoblauch, Zwiebel, Chili), Speisesalz, Zucker, geräucherte Paprika, Orange, Kräuter (Majoran)
 
 - Hello Smokey
   * Gewürze (Paprika, Pfeffer (schwarz), *Senf*mehl), geräucherte Paprika, Zucker, Rauchsalz (Speisesalz, Rauch), Speisesalz
