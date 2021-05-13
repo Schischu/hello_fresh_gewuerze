@@ -4,7 +4,7 @@
   * Speisesalz, Zucker, Mangopulver (Mango, Maltidextrin), Cucuma, Rosmarin gemahlen, Kreuzkümmel, Basilikum gerebelt, Zitronenschaltengranulat (Zucker, WEIZENSTÄRKE, Zitronenschalengranulat, Aromaextrakte), Chilli
   * Alternative Spicebar Südseetraum: https://www.spicebar.de/sudseetraum-bio
 
-- Hello Bueon Appetito (Hello Mediterraneo)
+- Hello Bueon Appetito (Hello Mediterraneo) <img src="https://github.com/Schischu/hello_fresh_gewuerze/blob/main/pictures/HELLO_BUON_APPETITO_LOGO.JPG?raw=true" width="80px" height="20px">
   * Tomaten, Speisesalz, Kräuter (Rosmarin, Oregano, Basilikum, Thymian), Gewürze (Zwiebeln, Chili, Knoblauch), Butterpilzpulver
 
 - Hello Curry
@@ -13,14 +13,14 @@
 
 - Hello Fajita
 
-- Hello Fiesta
+- Hello Fiesta) <img src="https://github.com/Schischu/hello_fresh_gewuerze/blob/main/pictures/HELLO_FIESTA_LOGO.JPG?raw=true" width="80px" height="20px">
   * Parpika, Kumin, Knoblauch, Piment, Zimt, Chili, Meersalz, Tomatenpulver
   * Alternative: Spicebar Hello Mexico: https://www.spicebar.de/hello-mexico-bio
 
-- Hello Harissa:
+- Hello Harissa  <img src="https://github.com/Schischu/hello_fresh_gewuerze/blob/main/pictures/HELLO_HARISSA_LOGO.JPG?raw=true" width="80px" height="20px">
   * Chili, Paprika, Kumin, Knoblauch, Koriander, Piment, Meersalz
 
-- Hello Kokos Curry
+- Hello Kokos Curry) <img src="https://github.com/Schischu/hello_fresh_gewuerze/blob/main/pictures/HELLO_KOKOS_CURRY_LOGO.JPG?raw=true" width="80px" height="20px">
   * Speisesalz, Zucker, Gewürze (Bockshornklee, Chili, Kreuzkümmel, Kardamom, Nelken) 10% Kokosraspel
 
 - Hello Mediterraneo (Hello Bueon Appetito)
@@ -36,13 +36,13 @@
   * Paprika, Knoblauch, Pfeffer (schwarz), Zwiebel, Speisesalz, Toastzwiebelpulver, Tomaten, Tomatenpulver
   * Alternative: Spicebar Tinas Tomatiges: https://www.spicebar.de/tinas-tomatiges-bio
 
-- Hello Piri Piri
+- Hello Piri Piri) <img src="https://github.com/Schischu/hello_fresh_gewuerze/blob/main/pictures/HELLO_PIRI_PIRI_LOGO.JPG?raw=true" width="80px" height="20px">
   * Gewürze (Paprika, Ingwer, Pfeffer (schwarz), Koriander, Knoblauch, Zwiebel, Chili), Speisesalz, Zucker, geräucherte Paprika, Orange, Kräuter (Majoran)
 
-- Hello Smokey
+- Hello Smokey) <img src="https://github.com/Schischu/hello_fresh_gewuerze/blob/main/pictures/HELLO_SMOKEY_LOGO.JPG?raw=true" width="80px" height="20px">
   * Gewürze (Paprika, Pfeffer (schwarz), *Senf*mehl), geräucherte Paprika, Zucker, Rauchsalz (Speisesalz, Rauch), Speisesalz
 
-- Hello Souflaki
+- Hello Souflaki) <img src="https://github.com/Schischu/hello_fresh_gewuerze/blob/main/pictures/HELLO_SOUFLAKI_LOGO.JPG?raw=true" width="80px" height="20px">
   * Knoblauch, Oregano, Tomaten, Chili mild, Cayenne Pfeffer
 
 - Hello Südseetraum
@@ -50,7 +50,7 @@
 - Smoky BBQ
   * Alternative: Spicebar Smoky BBQ: https://www.spicebar.de/smoky-bbq-pfeffermischung
 
-- Gewürzmischung Paprikagewürz
+- Gewürzmischung Paprikagewürz  <img src="https://github.com/Schischu/hello_fresh_gewuerze/blob/main/pictures/GEWUERZMISCHUNG_PAPRIKAGEWUERZ_LOGO.JPG?raw=true" width="80px" height="20px">
   * Speisesalz, Gewürze (Paprika, Pfeffer, Schwarzkümmel), Gemüse getrocknet (Zwiebeln, Knoblauch, Tomaten)
 
 - Gewürzmischung Muskat (?)
