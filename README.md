@@ -17,7 +17,7 @@
   * Parpika, Kumin, Knoblauch, Piment, Zimt, Chili, Meersalz, Tomatenpulver
   * Alternative: Spicebar Hello Mexico: https://www.spicebar.de/hello-mexico-bio
 
-- Hello Harissa  <img src="https://github.com/Schischu/hello_fresh_gewuerze/blob/main/pictures/HELLO_HARISSA_LOGO.JPG?raw=true" width="80px" height="30px">
+- Hello Harissa  <img src="https://github.com/Schischu/hello_fresh_gewuerze/blob/main/pictures/HELLO_HARISSA_LOGO.jpg?raw=true" width="80px" height="30px">
   * Chili, Paprika, Kumin, Knoblauch, Koriander, Piment, Meersalz
 
 - Hello Kokos Curry <img src="https://github.com/Schischu/hello_fresh_gewuerze/blob/main/pictures/HELLO_KOKOS_CURRY_LOGO.JPG?raw=true" width="80px" height="30px">
@@ -39,7 +39,7 @@
 - Hello Piri Piri <img src="https://github.com/Schischu/hello_fresh_gewuerze/blob/main/pictures/HELLO_PIRI_PIRI_LOGO.JPG?raw=true" width="80px" height="30px">
   * Gewürze (Paprika, Ingwer, Pfeffer (schwarz), Koriander, Knoblauch, Zwiebel, Chili), Speisesalz, Zucker, geräucherte Paprika, Orange, Kräuter (Majoran)
 
-- Hello Smokey <img src="https://github.com/Schischu/hello_fresh_gewuerze/blob/main/pictures/HELLO_SMOKEY_LOGO.JPG?raw=true" width="80px" height="30px">
+- Hello Smokey <img src="https://github.com/Schischu/hello_fresh_gewuerze/blob/main/pictures/HELLO_SMOKEY_LOGO.jpg?raw=true" width="80px" height="30px">
   * Gewürze (Paprika, Pfeffer (schwarz), *Senf*mehl), geräucherte Paprika, Zucker, Rauchsalz (Speisesalz, Rauch), Speisesalz
 
 - Hello Souflaki <img src="https://github.com/Schischu/hello_fresh_gewuerze/blob/main/pictures/HELLO_SOUFLAKI_LOGO.JPG?raw=true" width="80px" height="30px">
