@@ -4,6 +4,9 @@
   * Speisesalz, Zucker, Mangopulver (Mango, Maltodextrin), Curcuma, Rosmarin gemahlen, Kreuzkümmel, Basilikum gerebelt, Zitronenschaltengranulat (Zucker, *Weizenstärke*, Zitronenschalengranulat, Aromaextrakte), Chili
   * Alternative Spicebar Südseetraum: https://www.spicebar.de/sudseetraum-bio
 
+- Hello Baharat
+  * Gewürze (Paprika, Pfeffer (schwarz), Schwarzkümmel, Koriander, Knoblauch, Chili, Piment, Macis, Anis, Kardamom, Nelke), Speisesalz
+
 - Hello Buon Appetito (Hello Mediterraneo) <img src="https://github.com/Schischu/hello_fresh_gewuerze/blob/main/pictures/HELLO_BUON_APPETITO_LOGO.JPG?raw=true" width="80px" height="30px">
   * Tomaten, Speisesalz, Kräuter (Rosmarin, Oregano, Basilikum, Thymian), Gewürze (Zwiebeln, Chili, Knoblauch), Butterpilzpulver
 
