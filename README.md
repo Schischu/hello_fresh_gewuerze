@@ -14,6 +14,9 @@
   * Gewürze (Koriander, Curcuma, Bockshornkleesaat, Kreuzkümmel, Muskat), Paprikaextrakt
   * Alternative: Just Spices Curry Madras: https://www.justspices.de/curry-madras.html?queryID=&objectID=3405&indexName=js_live_dedefault_products
 
+- Hello Dukkah
+  * Speisesalz, *Sesam*, Speise-Meersalz, Kreuzkümmel, Koriander, Lorbeerblätter gemahlen, Pfeffer, Kardamom, Nelken, Muskatblüte gemahlen, Chili, *Senf*, Zimt
+
 - Hello Fajita
 
 - Hello Fiesta <img src="https://github.com/Schischu/hello_fresh_gewuerze/blob/main/pictures/HELLO_FIESTA_LOGO.JPG?raw=true" width="80px" height="30px">
