@@ -59,5 +59,8 @@
 - Gewürzmischung Paprikagewürz  <img src="https://github.com/Schischu/hello_fresh_gewuerze/blob/main/pictures/GEWUERZMISCHUNG_PAPRIKAGEWUERZ_LOGO.JPG?raw=true" width="80px" height="30px">
   * Speisesalz, Gewürze (Paprika, Pfeffer, Schwarzkümmel), Gemüse getrocknet (Zwiebeln, Knoblauch, Tomaten)
 
+- Gewürzmischung Madras Curry
+  * Kurkuma, *Senf* gelb, Koriandersamen, Kreuzkümmelsamen, Paprika rot edelsüß, Fenchelsamen grün, Chili mild, Ingwer, Zimt Ceylon, Zwiebelgranulat, Knoblauch
+
 - Gewürzmischung Muskat (?)
   * Speisesalz, Gemüse getrocknet (Lauch, Pastinaken, Karotten, Champignon, *Sellerieknolle*, Zwiebeln, Tomaten), Sonnenblumenöl, Maltodextrin, Gewürze (Muskat, Curcuma), Kräuter getrocknet
