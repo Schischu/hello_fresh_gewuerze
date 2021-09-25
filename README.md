@@ -59,6 +59,9 @@
 - Smoky BBQ
   * Alternative: Spicebar Smoky BBQ: https://www.spicebar.de/smoky-bbq-pfeffermischung
 
+- Gewürzmischung Desserttraum
+  * Rohrohrzucker, Vollrohrzucker, Kokosblütenzucker, Tonkabohnen, Bourbon-Vanille-Pulver
+
 - Gewürzmischung Paprikagewürz  <img src="https://github.com/Schischu/hello_fresh_gewuerze/blob/main/pictures/GEWUERZMISCHUNG_PAPRIKAGEWUERZ_LOGO.JPG?raw=true" width="80px" height="30px">
   * Speisesalz, Gewürze (Paprika, Pfeffer, Schwarzkümmel), Gemüse getrocknet (Zwiebeln, Knoblauch, Tomaten)
 
