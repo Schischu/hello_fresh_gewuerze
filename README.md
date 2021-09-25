@@ -23,6 +23,9 @@
   * Paprika, Kumin, Knoblauch, Piment, Zimt, Chili, Meersalz, Tomatenpulver
   * Alternative: Spicebar Hello Mexico: https://www.spicebar.de/hello-mexico-bio
 
+- Hello Grünzeug
+  * Süßungsmittel Erythrit (24%), Zwiebel, Thymian, Chili mild, Amchur, Salz, Kressesaat, Basilikum, Schnittlauch
+
 - Hello Harissa <img src="https://github.com/Schischu/hello_fresh_gewuerze/blob/main/pictures/HELLO_HARISSA_LOGO.jpg?raw=true" width="80px" height="30px">
   * Chili, Paprika, Kumin, Knoblauch, Koriander, Piment, Meersalz
 
