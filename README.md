@@ -55,6 +55,8 @@
   * Knoblauch, Oregano, Tomaten, Chili mild, Cayennepfeffer
 
 - Hello Südseetraum
+  * Gewürzzubereitung mit 23% Vollrohrzucker
+  * Kalahari Wüstensalz, Vollrohrzucker, Mango, Kurkuma, Rosmarin, Kreuzkummel, Zitronenschalen, Basilikum, Chili, Fenchel
 
 - Smoky BBQ
   * Alternative: Spicebar Smoky BBQ: https://www.spicebar.de/smoky-bbq-pfeffermischung
