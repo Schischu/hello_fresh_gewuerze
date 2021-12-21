@@ -48,6 +48,9 @@
 - Hello Piri Piri <img src="https://github.com/Schischu/hello_fresh_gewuerze/blob/main/pictures/HELLO_PIRI_PIRI_LOGO.JPG?raw=true" width="80px" height="30px">
   * Gewürze (Paprika, Ingwer, Pfeffer (schwarz), Koriander, Knoblauch, Zwiebel, Chili), Speisesalz, Zucker, geräucherte Paprika, Orange, Kräuter (Majoran)
 
+- Hello Shakshuka
+  * Gewürze (Paprika, Chili, Koriander, Curcuma, Kreuzkümmel), Gemüse getrocknet (Zwiebel, Knoblauch), Speisesalz, Gewürzextrakte, Schwefeldioxid
+
 - Hello Smokey <img src="https://github.com/Schischu/hello_fresh_gewuerze/blob/main/pictures/HELLO_SMOKEY_LOGO.jpg?raw=true" width="80px" height="30px">
   * Gewürze (Paprika, Pfeffer (schwarz), *Senf*mehl), geräucherte Paprika, Zucker, Rauchsalz (Speisesalz, Rauch), Speisesalz
 
