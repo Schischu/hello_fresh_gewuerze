@@ -37,11 +37,11 @@
 
 - Hello Mezze
   * Tomatengranulat, Knoblauchgranulat, Kreuzkümmel, Chili
-  * Alternative: Boomers Gourmet Harissa Gewürzmischung: https://www.amazon.de/gp/product/B08SK7ZJJW/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
+  * Alternative: Boomers Gourmet Harissa Gewürzmischung: https://www.amazon.de/gp/product/B08SK7ZJJW/
 
 - Hello Muskat
   * Speisesalz, Würze, Gewürze (Zwiebel, Lauch, Muskatnuss, *Sellerie*, Pastinake, Knoblauch, Kurkuma, Liebstockwurzel), Maltodextrin, Karottenpulver, Karotten, Kräuter (Petersilie)
-  * Alternative: Boomers Gourmet Chimichurry Gewürzmischung: https://www.amazon.de/gp/product/B08VNBDZRD/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
+  * Alternative: Boomers Gourmet Chimichurry Gewürzmischung: https://www.amazon.de/gp/product/B08VNBDZRD/
 
 - Hello Paprika
   * Paprika, Knoblauch, Pfeffer (schwarz), Zwiebel, Speisesalz, Toastzwiebelpulver, Tomaten, Tomatenpulver
@@ -49,7 +49,7 @@
 
 - Hello Piri Piri <img src="https://github.com/Schischu/hello_fresh_gewuerze/blob/main/pictures/HELLO_PIRI_PIRI_LOGO.JPG?raw=true" width="80px" height="30px">
   * Gewürze (Paprika, Ingwer, Pfeffer (schwarz), Koriander, Knoblauch, Zwiebel, Chili), Speisesalz, Zucker, geräucherte Paprika, Orange, Kräuter (Majoran)
-  * Alternative: Boomers Gourmet Pul Biber Gewürzmischung: https://www.amazon.de/gp/product/B08SL8W97R/ref=ppx_yo_dt_b_asin_title_o00_s01?ie=UTF8&psc=1
+  * Alternative: Boomers Gourmet Pul Biber Gewürzmischung: https://www.amazon.de/gp/product/B08SL8W97R/
 
 - Hello Shakshuka
   * Gewürze (Paprika, Chili, Koriander, Curcuma, Kreuzkümmel), Gemüse getrocknet (Zwiebel, Knoblauch), Speisesalz, Gewürzextrakte, Schwefeldioxid
