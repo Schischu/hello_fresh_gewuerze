@@ -57,6 +57,9 @@
 - Hello Smokey <img src="https://github.com/Schischu/hello_fresh_gewuerze/blob/main/pictures/HELLO_SMOKEY_LOGO.jpg?raw=true" width="80px" height="30px">
   * Gewürze (Paprika, Pfeffer (schwarz), *Senf*mehl), geräucherte Paprika, Zucker, Rauchsalz (Speisesalz, Rauch), Speisesalz
 
+- Hello Smoky Paprika
+  * Speisesalz, Gewürze (Paprika, Pfeffer, *Senfmehl*, Chili), Zucker, Raucharoma
+
 - Hello Souflaki <img src="https://github.com/Schischu/hello_fresh_gewuerze/blob/main/pictures/HELLO_SOUFLAKI_LOGO.JPG?raw=true" width="80px" height="30px">
   * Knoblauch, Oregano, Tomaten, Chili mild, Cayennepfeffer
 
