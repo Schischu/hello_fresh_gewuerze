@@ -79,3 +79,6 @@
 - Gewürzmischung Muskat (?)
   * Speisesalz, Gemüse getrocknet (Lauch, Pastinaken, Karotten, Champignon, *Sellerieknolle*, Zwiebeln, Tomaten), Sonnenblumenöl, Maltodextrin, Gewürze (Muskat, Curcuma), Kräuter getrocknet
   * vgl. oben Hello Muskat
+
+- Gewürzmischung Hello Smoky Paprika
+  * Speisesalz, Gewürze (Paprika, Pfeffer, SENFMEHL, Chili), Zucker, Raucharoma
