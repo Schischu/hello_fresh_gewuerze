@@ -47,6 +47,9 @@
   * Paprika, Knoblauch, Pfeffer (schwarz), Zwiebel, Speisesalz, Toastzwiebelpulver, Tomaten, Tomatenpulver
   * Alternative: Spicebar Tinas Tomatiges: https://www.spicebar.de/tinas-tomatiges-bio
 
+- Hello Patatas
+   * Speisesalz, Paprika, Curcuma, Kreuzkümmel, Muskat, Zwiebelgranulat
+
 - Hello Piri Piri <img src="https://github.com/Schischu/hello_fresh_gewuerze/blob/main/pictures/HELLO_PIRI_PIRI_LOGO.JPG?raw=true" width="80px" height="30px">
   * Gewürze (Paprika, Ingwer, Pfeffer (schwarz), Koriander, Knoblauch, Zwiebel, Chili), Speisesalz, Zucker, geräucherte Paprika, Orange, Kräuter (Majoran)
   * Alternative: Boomers Gourmet Pul Biber Gewürzmischung: https://www.amazon.de/gp/product/B08SL8W97R/
