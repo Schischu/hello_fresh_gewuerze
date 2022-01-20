@@ -10,6 +10,9 @@
 - Hello Buon Appetito (Hello Mediterraneo) <img src="https://github.com/Schischu/hello_fresh_gewuerze/blob/main/pictures/HELLO_BUON_APPETITO_LOGO.JPG?raw=true" width="80px" height="30px">
   * Tomaten, Speisesalz, Kräuter (Rosmarin, Oregano, Basilikum, Thymian), Gewürze (Zwiebeln, Chili, Knoblauch), Butterpilzpulver
 
+- Hello Cajun
+  * Gewürze (Paprika, Chili, Koriander, Pfeffer, Fenchel), Speisesalz, Gemüse getrocknet (Knoblauch, Zwiebeln), Kräuter getrocknet (Thymian, Oregano), Paprikaextrakt
+
 - Hello Curry
   * Gewürze (Koriander, Curcuma, Bockshornkleesaat, Kreuzkümmel, Muskat), Paprikaextrakt
   * Alternative: Just Spices Curry Madras: https://www.justspices.de/curry-madras.html?queryID=&objectID=3405&indexName=js_live_dedefault_products
