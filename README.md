@@ -49,6 +49,7 @@
 - Hello Paprika
   * Paprika, Knoblauch, Pfeffer (schwarz), Zwiebel, Speisesalz, Toastzwiebelpulver, Tomaten, Tomatenpulver
   * Alternative: Spicebar Tinas Tomatiges: https://www.spicebar.de/tinas-tomatiges-bio
+  * Recipes used: Babyspinat-Spätzle-Pfanne, 
 
 - Hello Patatas
    * Speisesalz, Paprika, Curcuma, Kreuzkümmel, Muskat, Zwiebelgranulat
