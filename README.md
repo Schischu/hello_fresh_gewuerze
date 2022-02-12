@@ -31,6 +31,7 @@
 
 - Hello Harissa <img src="https://github.com/Schischu/hello_fresh_gewuerze/blob/main/pictures/HELLO_HARISSA_LOGO.jpg?raw=true" width="80px" height="30px">
   * Chili, Paprika, Kumin, Knoblauch, Koriander, Piment, Meersalz
+  * Alternative: Spicebar Harissa Bio: https://www.spicebar.de/harissa-bio
 
 - Hello Kokos Curry <img src="https://github.com/Schischu/hello_fresh_gewuerze/blob/main/pictures/HELLO_KOKOS_CURRY_LOGO.JPG?raw=true" width="80px" height="30px">
   * Speisesalz, Zucker, Gewürze (Bockshornklee, Chili, Kreuzkümmel, Kardamom, Nelken), 10% Kokosraspel
