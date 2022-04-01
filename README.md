@@ -9,6 +9,7 @@
 
 - Hello Buon Appetito (Hello Mediterraneo) <img src="https://github.com/Schischu/hello_fresh_gewuerze/blob/main/pictures/HELLO_BUON_APPETITO_LOGO.JPG?raw=true" width="80px" height="30px">
   * Tomaten, Speisesalz, Kräuter (Rosmarin, Oregano, Basilikum, Thymian), Gewürze (Zwiebeln, Chili, Knoblauch), Butterpilzpulver
+  * Alternative: Spicebar Hello Mediterraneo: https://www.spicebar.de/gewuerze/gewuerzmischungen/hello-mediterraneo-bio
 
 - Hello Cajun
   * Gewürze (Paprika, Chili, Koriander, Pfeffer, Fenchel), Speisesalz, Gemüse getrocknet (Knoblauch, Zwiebeln), Kräuter getrocknet (Thymian, Oregano), Paprikaextrakt
@@ -35,9 +36,6 @@
 
 - Hello Kokos Curry <img src="https://github.com/Schischu/hello_fresh_gewuerze/blob/main/pictures/HELLO_KOKOS_CURRY_LOGO.JPG?raw=true" width="80px" height="30px">
   * Speisesalz, Zucker, Gewürze (Bockshornklee, Chili, Kreuzkümmel, Kardamom, Nelken), 10% Kokosraspel
-
-- Hello Mediterraneo (Hello Buon Appetito)
-  * Alternative: Spicebar Hello Mediterraneo: https://www.spicebar.de/gewuerze/gewuerzmischungen/hello-mediterraneo-bio
 
 - Hello Mezze
   * Tomatengranulat, Knoblauchgranulat, Kreuzkümmel, Chili
