@@ -1,7 +1,7 @@
 # Hello Fresh Gewürze
 
 - Hello Aloha
-  * Speisesalz, Zucker, Mangopulver (Mango, Maltodextrin), Curcuma, Rosmarin gemahlen, Kreuzkümmel, Basilikum gerebelt, Zitronenschaltengranulat (Zucker, *Weizenstärke*, Zitronenschalengranulat, Aromaextrakte), Chili
+  * Speisesalz, Zucker, Mangopulver (Mango, Maltodextrin), Curcuma, Rosmarin gemahlen, Kreuzkümmel, Basilikum gerebelt, Zitronenschalengranulat (Zucker, *Weizenstärke*, Zitronenschalengranulat, Aromaextrakte), Chili
   * Alternative Spicebar Südseetraum: https://www.spicebar.de/sudseetraum-bio
 
 - Hello Baharat
