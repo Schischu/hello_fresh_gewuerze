@@ -7,7 +7,7 @@
 - Hello Baharat
   * Gewürze (Paprika, Pfeffer (schwarz), Schwarzkümmel, Koriander, Knoblauch, Chili, Piment, Macis, Anis, Kardamom, Nelke), Speisesalz
 
-- Hello Buon Appetito (Hello Mediterraneo) <img src="https://github.com/Schischu/hello_fresh_gewuerze/blob/main/pictures/HELLO_BUON_APPETITO_LOGO.JPG?raw=true" width="80px" height="30px">
+- Hello Buon Appetito (Hello Mediterraneo)
   * Tomaten, Speisesalz, Kräuter (Rosmarin, Oregano, Basilikum, Thymian), Gewürze (Zwiebeln, Chili, Knoblauch), Butterpilzpulver
   * Alternative: Spicebar Hello Mediterraneo: https://www.spicebar.de/gewuerze/gewuerzmischungen/hello-mediterraneo-bio
 
@@ -23,18 +23,18 @@
 
 - Hello Fajita
 
-- Hello Fiesta <img src="https://github.com/Schischu/hello_fresh_gewuerze/blob/main/pictures/HELLO_FIESTA_LOGO.JPG?raw=true" width="80px" height="30px">
+- Hello Fiesta
   * Paprika, Kumin, Knoblauch, Piment, Zimt, Chili, Meersalz, Tomatenpulver
   * Alternative: Spicebar Hello Mexico: https://www.spicebar.de/hello-mexico-bio
 
 - Hello Grünzeug
   * Süßungsmittel Erythrit (24%), Zwiebel, Thymian, Chili mild, Amchur, Salz, Kressesaat, Basilikum, Schnittlauch
 
-- Hello Harissa <img src="https://github.com/Schischu/hello_fresh_gewuerze/blob/main/pictures/HELLO_HARISSA_LOGO.jpg?raw=true" width="80px" height="30px">
+- Hello Harissa
   * Chili, Paprika, Kumin, Knoblauch, Koriander, Piment, Meersalz
   * Alternative: Spicebar Harissa Bio: https://www.spicebar.de/harissa-bio
 
-- Hello Kokos Curry <img src="https://github.com/Schischu/hello_fresh_gewuerze/blob/main/pictures/HELLO_KOKOS_CURRY_LOGO.JPG?raw=true" width="80px" height="30px">
+- Hello Kokos Curry
   * Speisesalz, Zucker, Gewürze (Bockshornklee, Chili, Kreuzkümmel, Kardamom, Nelken), 10% Kokosraspel
 
 - Hello Mezze
@@ -52,20 +52,20 @@
 - Hello Patatas
    * Speisesalz, Paprika, Curcuma, Kreuzkümmel, Muskat, Zwiebelgranulat
 
-- Hello Piri Piri <img src="https://github.com/Schischu/hello_fresh_gewuerze/blob/main/pictures/HELLO_PIRI_PIRI_LOGO.JPG?raw=true" width="80px" height="30px">
+- Hello Piri Piri
   * Gewürze (Paprika, Ingwer, Pfeffer (schwarz), Koriander, Knoblauch, Zwiebel, Chili), Speisesalz, Zucker, geräucherte Paprika, Orange, Kräuter (Majoran)
   * Alternative: Boomers Gourmet Pul Biber Gewürzmischung: https://www.amazon.de/gp/product/B08SL8W97R/
 
 - Hello Shakshuka
   * Gewürze (Paprika, Chili, Koriander, Curcuma, Kreuzkümmel), Gemüse getrocknet (Zwiebel, Knoblauch), Speisesalz, Gewürzextrakte, Schwefeldioxid
 
-- Hello Smokey <img src="https://github.com/Schischu/hello_fresh_gewuerze/blob/main/pictures/HELLO_SMOKEY_LOGO.jpg?raw=true" width="80px" height="30px">
+- Hello Smokey
   * Gewürze (Paprika, Pfeffer (schwarz), *Senf*mehl), geräucherte Paprika, Zucker, Rauchsalz (Speisesalz, Rauch), Speisesalz
 
 - Hello Smoky Paprika
   * Speisesalz, Gewürze (Paprika, Pfeffer, *Senfmehl*, Chili), Zucker, Raucharoma
 
-- Hello Souflaki <img src="https://github.com/Schischu/hello_fresh_gewuerze/blob/main/pictures/HELLO_SOUFLAKI_LOGO.JPG?raw=true" width="80px" height="30px">
+- Hello Souflaki
   * Knoblauch, Oregano, Tomaten, Chili mild, Cayennepfeffer
 
 - Hello Südseetraum
@@ -78,7 +78,7 @@
 - Gewürzmischung Desserttraum
   * Rohrohrzucker, Vollrohrzucker, Kokosblütenzucker, Tonkabohnen, Bourbon-Vanille-Pulver
 
-- Gewürzmischung Paprikagewürz  <img src="https://github.com/Schischu/hello_fresh_gewuerze/blob/main/pictures/GEWUERZMISCHUNG_PAPRIKAGEWUERZ_LOGO.JPG?raw=true" width="80px" height="30px">
+- Gewürzmischung Paprikagewürz
   * Speisesalz, Gewürze (Paprika, Pfeffer, Schwarzkümmel), Gemüse getrocknet (Zwiebeln, Knoblauch, Tomaten)
 
 - Gewürzmischung Madras Curry
