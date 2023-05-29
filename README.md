@@ -29,6 +29,7 @@
 
 - Hello Grünzeug
   * Süßungsmittel Erythrit (24%), Zwiebel, Thymian, Chili mild, Amchur, Salz, Kressesaat, Basilikum, Schnittlauch
+  * Alternative: [Spicebar Grünzeugzeugs](https://www.spicebar.de/paulikocht-grunzeugzeugs-bio)
 
 - Hello Harissa
   * Chili, Paprika, Kumin, Knoblauch, Koriander, Piment, Meersalz
