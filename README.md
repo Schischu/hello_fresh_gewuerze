@@ -88,3 +88,6 @@
 - Gewürzmischung Muskat (?)
   * Speisesalz, Gemüse getrocknet (Lauch, Pastinaken, Karotten, Champignon, *Sellerieknolle*, Zwiebeln, Tomaten), Sonnenblumenöl, Maltodextrin, Gewürze (Muskat, Curcuma), Kräuter getrocknet
   * vgl. oben Hello Muskat
+
+- Zatar Würzmittel
+  * Sesamsaat, Kräuter (Thymian, Majoran, Oregano), Meersalz (fein), Gewürze (Koriander, Kumin), Zitronensaftpulver (Glukosesirup, Zitronensaftkonzentrat)
