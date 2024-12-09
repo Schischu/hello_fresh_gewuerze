@@ -76,6 +76,9 @@
 - Smoky BBQ
   * Alternative: [Spicebar Smoky BBQ](https://www.spicebar.de/smoky-bbq-pfeffermischung)
 
+- Gewürzmischung 5 Gewürzpulver
+  * Zimt, Pfeffer (schwarz), Fenchel, Sternanis, Nelke
+
 - Gewürzmischung Desserttraum
   * Rohrohrzucker, Vollrohrzucker, Kokosblütenzucker, Tonkabohnen, Bourbon-Vanille-Pulver
 
