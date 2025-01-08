@@ -73,6 +73,10 @@
   * Gewürzzubereitung mit 23% Vollrohrzucker
   * Kalahari Wüstensalz, Vollrohrzucker, Mango, Kurkuma, Rosmarin, Kreuzkümmel, Zitronenschalen, Basilikum, Chili, Fenchel
 
+- Hello Umami
+  * Salz, Kokosblütenzucker, Tomate, Sumach, Knoblauch, Paprika, Zwiebel, Rauchsalz, Steinpilz, Lauch
+  * Alternative: [Spicebar Umami-Bums](https://www.spicebar.de/umami-bums-bio)
+
 - Smoky BBQ
   * Alternative: [Spicebar Smoky BBQ](https://www.spicebar.de/smoky-bbq-pfeffermischung)
 
